@@ -1,0 +1,10 @@
+[package]
+name = "helios-bash-completion"
+version = "0.0.0"
+edition = "2021"
+license = "MPL-2.0"
+
+[dependencies]
+anyhow = "1"
+getopts = "0.2"
+sigpipe = "0.1"
